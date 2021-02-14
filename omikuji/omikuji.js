@@ -22,6 +22,6 @@ if (rand == 4) {
   userresult = '凶';
 }
 document.getElementById('result').innerHTML = userresult;
-if (userename == '') {
+if (username == '') {
   username = '名無し';
 }
